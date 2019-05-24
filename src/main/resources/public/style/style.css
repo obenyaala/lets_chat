@@ -1,0 +1,26 @@
+#chat-box {
+    text-align: center;
+}
+
+#chat {
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    display: inline-block;
+    overflow: auto;
+    word-wrap: break-word;
+}
+
+#username {
+    width: 100px;
+}
+
+#chat-input {
+    width: 400px;
+}
+#chat p {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
